@@ -1,0 +1,16 @@
+.bgclass{
+    /* background-image: url(./Nitro_Wallpaper_5000x2813.jpg); */
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(./Nitro_Wallpaper_5000x2813.jpg);
+    height: 90vh;
+    color: white;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    background-color: rgba(0,0,0,0.6);
+    /* padding: 20px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+}
